@@ -1,0 +1,22 @@
+.task-li {
+    background-color: rgba(204, 125, 201, 0.652);
+    color: rgb(67, 8, 80);
+    border-radius: 5px;
+    position: relative;
+}
+
+
+.p1 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.p2 {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.line {
+    text-decoration: line-through;
+    border-left: 10px solid rgb(60, 15, 80);
+}
