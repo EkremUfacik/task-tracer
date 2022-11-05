@@ -3,11 +3,12 @@
 ## Build with
 
 - React
-- Jsx
+- Local Storage
+- Bootstrap
 
 ## Link
-- https://random-users-project.netlify.app/
+- https://task-tracker-eu.netlify.app/
 
 ## Screenshot
 
-<img src="src/asset/Random User App.png" alt="user" style="zoom: 200%;" />
+<img src="src/asset/task-tracker.png" alt="user" style="zoom: 200%;" />
